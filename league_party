@@ -1,0 +1,58 @@
+WNBA	Democrat	210
+WNBA	Bipartisan but mostly Republican	9
+WNBA	Republican	54
+WNBA	Bipartisan	1
+NHL NFL	Bipartisan	1
+NHL NFL	Republican	11
+NHL	Bipartisan but mostly Democratic	2
+NHL	Bipartisan but mostly Republican	2
+NHL	Democrat	87
+NHL	Bipartisan	25
+NHL	Republican	213
+NFL	Bipartisan	82
+NFL	N/A	1
+NFL	Democrat	92
+NFL	Bipartisan but mostly Republican	3
+NFL	Republican	266
+NBA WNBA	Republican	61
+NBA WNBA	Bipartisan	5
+NBA WNBA	Bipartisan but mostly Republican	3
+NBA WNBA	Democrat	47
+NBA WNBA	N/A	2
+NBA NHL WNBA	Democrat	15
+NBA NHL	Democrat	38
+NBA NHL	Bipartisan but mostly Democratic	1
+NBA NHL	Republican	69
+NBA NHL	Bipartisan but mostly Republican	1
+NBA NFL NHL	Democrat	1
+NBA NFL NHL	Bipartisan	1
+NBA NFL NHL	Republican	1
+NBA NFL	Republican	61
+NBA NFL	Bipartisan	1
+NBA NFL	Democrat	47
+NBA MLB	N/A	3
+NBA MLB	Bipartisan	3
+NBA MLB	Democrat	29
+NBA MLB	Bipartisan but mostly Democratic	2
+NBA MLB	Independent	1
+NBA MLB	Republican	46
+NBA	Democrat	171
+NBA	Republican	271
+NBA	Independent	2
+NBA	Bipartisan	5
+NBA	Bipartisan but mostly Republican	13
+NASCAR	Republican	49
+NASCAR	Democrat	19
+NASCAR	Bipartisan	7
+NASCAR	Bipartisan but mostly Republican	4
+MLB WNBA	Democrat	3
+MLB WNBA	Bipartisan	3
+MLB NHL	Republican	4
+MLB NHL	Bipartisan	3
+MLB NASCAR	Republican	1
+MLB	Bipartisan but mostly Republican	5
+MLB	N/A	3
+MLB	Bipartisan	58
+MLB	Democrat	162
+MLB	Republican	518
+League	Party	1

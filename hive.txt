@@ -1,0 +1,6 @@
+CREATE TABLE donationTable (Owner String,Team String,League String,Recipient String,Amount Double,Year Int,Party String) ROW FORMAT DELIMITED FIELDS TERMINATED BY ',' LOCATION '/hive/donations';
+LOAD DATA INPATH 'hdfs:/sports-donations/sports-political-donations.csv' INTO TABLE donationTable;
+Select owner, team, league, amount, year from donationTable where amount>=200000;
+Select DISTINCT Recipient from donationTable;
+Select * FROM donationTable where team LIKE 'Boston%';
+Select owner,team,count(*) FROM donationTable where team like 'Boston%' GROUP BY owner,team;
